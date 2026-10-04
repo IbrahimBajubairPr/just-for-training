@@ -1,5 +1,5 @@
 ### Git course
 Sorry I am just training
 
-## Notes
+# Notes
 - Create repo for each project
